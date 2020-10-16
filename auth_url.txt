@@ -1,0 +1,1 @@
+https://dev-39w-y5ot.auth0.com/authorize?audience=casting%20apie&response_type=token&client_id=4PosBboMmKMUMZwFzm229FTb9gY89v3V&redirect_uri=https://stormy-mountain-88605.herokuapp.com
