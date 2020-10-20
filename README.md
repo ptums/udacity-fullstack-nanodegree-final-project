@@ -1,4 +1,4 @@
-# Full Stack Capstone
+# Udacity FullStack Nanodegree Final Project
 
 
 This repository contains the code base to my solution for [Udacity's Full Stack Nanodegree final project](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044). It is a private API that contains data on actors and movies for casting directors, executive producers, and casting assistants. The API is developed using the python framework Flask, the authentication service AUth0 with a Postgres SQL database
